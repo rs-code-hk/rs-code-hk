@@ -1,16 +1,16 @@
-## Hi there 👋
+# Riley Steptoe
 
-<!--
-**rs-code-hk/rs-code-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pronouns**: She/Her
 
-Here are some ideas to get you started:
+**Prior Experience**: Training in C#, Javascript, HTML and CSS. Ran D&D oneshot at *Gamechangers League*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formal Education
+- Westmere Primary
+- Pasadena Intermediate
+- Western Springs College
+
+## Creations
+- D&D NPC Generator (Python)
+- The Odyssey (C# With Unity)
+- Hollow Knight Charm Order Randomizer (Python)
+- Hollow Knight Speedrun Guide (HTML & CSS)
