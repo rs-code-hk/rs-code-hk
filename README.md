@@ -1,6 +1,6 @@
 # Riley Steptoe
 
-**Pronouns**: She/They
+**Pronouns**: She/They 🏳️‍⚧️
 
 **Prior Experience**: Training in C#, Javascript, HTML and CSS. Ran D&D oneshot at *Gamechangers League*
 
