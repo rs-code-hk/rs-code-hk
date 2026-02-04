@@ -1,6 +1,6 @@
 # Riley Steptoe
 
-**Pronouns**: She/Her
+**Pronouns**: She/They
 
 **Prior Experience**: Training in C#, Javascript, HTML and CSS. Ran D&D oneshot at *Gamechangers League*
 
@@ -14,3 +14,7 @@
 - The Odyssey (C# With Unity)
 - Hollow Knight Charm Order Randomizer (Python)
 - Hollow Knight Speedrun Guide (HTML & CSS)
+
+## How to Contact Me
+- Discord \(Adding Soon\)
+- Email: Rileysteptoe10@gmail.com
