@@ -19,4 +19,4 @@
 - Discord \(Adding Soon\)
 - Email: Rileysteptoe10@gmail.com
 
-![Trans Flag](Transgender_Pride_flag.png)
+<img src = "Transgender_Pride_flag.png" style = "width: 300px">
