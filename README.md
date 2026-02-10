@@ -14,9 +14,11 @@
 - The Odyssey (C# With Unity)
 - Hollow Knight Charm Order Randomizer (Python)
 - Hollow Knight Speedrun Guide (HTML & CSS)
+- Tetris Clone (WIP, Python)
 
 ## How to Contact Me
 - Discord \(Adding Soon\)
 - Email: Rileysteptoe10@gmail.com
+- Youtube: (Adding Soon)
 
 <img src = "Transgender_Pride_flag.png" style = "width: 300px">
