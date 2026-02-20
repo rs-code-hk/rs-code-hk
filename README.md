@@ -1,6 +1,6 @@
 # Riley Steptoe
 
-**Pronouns**: She/They 🏳️‍⚧️
+**Pronouns**: She/It/They/Fae 🏳️‍⚧️
 
 **Prior Experience**: Training in C#, Javascript, HTML and CSS. Ran D&D oneshot at *Gamechangers League*
 
@@ -17,8 +17,8 @@
 - Tetris Clone (WIP, Python)
 
 ## How to Contact Me
-- Discord \(Adding Soon\)
+- Discord riley (:
 - Email: Rileysteptoe10@gmail.com
-- Youtube: (Adding Soon)
+- Youtube: [Hollow Mythology](https://www.youtube.com/@HollowMythology-eu7hz)
 
 <img src = "Transgender_Pride_flag.png" style = "width: 300px">
